@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://komapc.github.io/home/</loc>
+    <lastmod>2020-09-29T22:18:32+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://komapc.github.io/contacts/</loc>
     <lastmod>2020-09-29T22:18:32+03:00</lastmod>
   </url>
@@ -25,11 +30,6 @@
   <url>
     <loc>https://komapc.github.io/who/</loc>
     <lastmod>2020-09-29T22:18:32+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://komapc.github.io/home/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

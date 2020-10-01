@@ -18,6 +18,15 @@ Mark a developer.</description>
     </item>
     
     <item>
+      <title>BeMyGuest</title>
+      <link>https://komapc.github.io/home/</link>
+      <pubDate>Tue, 29 Sep 2020 22:18:32 +0300</pubDate>
+      
+      <guid>https://komapc.github.io/home/</guid>
+      <description>Home </description>
+    </item>
+    
+    <item>
       <title>Contacts</title>
       <link>https://komapc.github.io/contacts/</link>
       <pubDate>Tue, 29 Sep 2020 22:18:32 +0300</pubDate>
@@ -44,15 +53,6 @@ Demo version (alpha) on heroku</description>
       
       <guid>https://komapc.github.io/who/</guid>
       <description>More information about us</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://komapc.github.io/home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://komapc.github.io/home/</guid>
-      <description></description>
     </item>
     
   </channel>
