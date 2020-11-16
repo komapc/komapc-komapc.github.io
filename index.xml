@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BeMyGuest</title>
-    <link>https://komapc.github.io/</link>
+    <link>https://dining-philosophers.com/</link>
     <description>Recent content on BeMyGuest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2020 22:18:32 +0300</lastBuildDate><atom:link href="https://komapc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Sep 2020 22:18:32 +0300</lastBuildDate><atom:link href="https://dining-philosophers.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://komapc.github.io/about/</link>
+      <link>https://dining-philosophers.com/about/</link>
       <pubDate>Tue, 29 Sep 2020 22:18:32 +0300</pubDate>
       
-      <guid>https://komapc.github.io/about/</guid>
+      <guid>https://dining-philosophers.com/about/</guid>
       <description>Who we are? Yana a graphic designer.
 Mark a developer.</description>
     </item>
     
     <item>
       <title>BeMyGuest</title>
-      <link>https://komapc.github.io/home/</link>
+      <link>https://dining-philosophers.com/home/</link>
       <pubDate>Tue, 29 Sep 2020 22:18:32 +0300</pubDate>
       
-      <guid>https://komapc.github.io/home/</guid>
+      <guid>https://dining-philosophers.com/home/</guid>
       <description>Home </description>
     </item>
     
     <item>
       <title>Contacts</title>
-      <link>https://komapc.github.io/contacts/</link>
+      <link>https://dining-philosophers.com/contacts/</link>
       <pubDate>Tue, 29 Sep 2020 22:18:32 +0300</pubDate>
       
-      <guid>https://komapc.github.io/contacts/</guid>
+      <guid>https://dining-philosophers.com/contacts/</guid>
       <description>You can write us to social.dining.food.sharing@gmail.com</description>
     </item>
     
     <item>
       <title>Screens</title>
-      <link>https://komapc.github.io/screens/</link>
+      <link>https://dining-philosophers.com/screens/</link>
       <pubDate>Tue, 29 Sep 2020 22:18:32 +0300</pubDate>
       
-      <guid>https://komapc.github.io/screens/</guid>
+      <guid>https://dining-philosophers.com/screens/</guid>
       <description>How it looks? https://youtu.be/bRijnofI-nw
 
 Demo version (alpha) on heroku</description>
@@ -48,19 +48,19 @@ Demo version (alpha) on heroku</description>
     
     <item>
       <title>The problems we solve</title>
-      <link>https://komapc.github.io/answers/</link>
+      <link>https://dining-philosophers.com/answers/</link>
       <pubDate>Tue, 29 Sep 2020 22:18:32 +0300</pubDate>
       
-      <guid>https://komapc.github.io/answers/</guid>
+      <guid>https://dining-philosophers.com/answers/</guid>
       <description>Problem Solution     Household food loss    A huge amount of overprepared food is thrown away because people often cook more than they can eat. We encourage people to share the food surplus with other people.   Social    Although people usually don’t like to eat alone (and researches show that this is not recommended: Time, theguardian), there is no socially acceptable way to share a meal with a stranger.</description>
     </item>
     
     <item>
       <title>Who we are</title>
-      <link>https://komapc.github.io/who/</link>
+      <link>https://dining-philosophers.com/who/</link>
       <pubDate>Tue, 29 Sep 2020 22:18:32 +0300</pubDate>
       
-      <guid>https://komapc.github.io/who/</guid>
+      <guid>https://dining-philosophers.com/who/</guid>
       <description>More information about us</description>
     </item>
     
